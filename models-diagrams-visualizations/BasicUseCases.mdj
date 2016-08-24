@@ -5630,16 +5630,6 @@
 					"name": "Physical View",
 					"visible": true,
 					"defaultDiagram": false
-				},
-				{
-					"_type": "UMLUseCaseDiagram",
-					"_id": "AAAAAAFWu2GEYKtO/1U=",
-					"_parent": {
-						"$ref": "AAAAAAFFxl8NcT9gE1g="
-					},
-					"name": "UseCaseDiagram1",
-					"visible": true,
-					"defaultDiagram": false
 				}
 			],
 			"visibility": "public"
