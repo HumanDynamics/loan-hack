@@ -40,17 +40,17 @@ VIN: Y87KHF876599GFD43
 
 Annual Percentage Rate("APR"): 5.5%
 
-Finance Charge:
+Finance Charge: $4,438.27
 
-Amount Financed:
+Amount Financed: $29,700.00
 
-Total of Payments:
+Total of Payments: $34,138.27
 
-Total Sale Price: 
+Total Sale Price: $37,038.27
 
 Number of Payments: 60
 
-Amount of Payments: 
+Amount of Payments: $567.30
 
 Due date: February 1, 2016, and the same date each month thereafter.
 
@@ -64,7 +64,7 @@ Prepayment: You may prepay any or all of the amount financed
 
 Cash Price: $31,000.00
 
-Sales Tax:
+Sales Tax: $0
 
 Cash Downpayment:
 
