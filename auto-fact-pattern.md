@@ -37,3 +37,5 @@ See MA retail installment auto agreements: https://malegislature.gov/Laws/Genera
 2. Identify the important B/L/T names of each Action, Interaction or Transaction and
 3. Map the roles/relationships to the key rights/responsibilities we seek to spotlight
 Once we have a servicible whiteboard or markdown model of above we should consider how best to simplify and streamline the number and complexity of activities, behaviors and sequences of events happening with/by/topeople, processes and objects]
+
+[As a Socratic counter-factual, we should throw in a "what if" or two, just to keep the right angle engineers denialists of any ambiguity tethered to reality of creative common law causes sounding in equity... perhaps with a revelation that the VIN encoded on the Blockchain tended to support the non-paying buyer claim that the [Jalopy](https://en.wikipedia.org/wiki/Decrepit_car#/media/File:Joshua_Tree_-_Love_car.jpg) was a lemon or the borrower signature on the loan was forged by the dealer.]
