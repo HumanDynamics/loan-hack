@@ -1,5 +1,9 @@
 
-/// The following initial content is soleley an exemplar of solidity code and should be replaced by the code intended to be used in the Eris system to model some relevant aspect(s) of the loan transaction.  The code below was copied from: http://solidity.readthedocs.io/en/latest/solidity-by-example.html#safe-remote-purchase 
+/// The following initial content is soleley an exemplar of solidity code and should be replaced by new code intended
+/// to be used in the Eris system to model some relevant aspect(s) of the loan transaction.  The code below was copied 
+/// from: http://solidity.readthedocs.io/en/latest/solidity-by-example.html#safe-remote-purchase 
+
+
 
 contract Purchase {
     uint public value;
