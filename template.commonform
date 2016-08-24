@@ -1,0 +1,19 @@
+  \ Preamble \
+
+        \ Length \ This instrument shall last for [Number of Months] months.
+
+        \ Parties \
+
+            \\ [Party A Name] (the ""Seller"") and [Party B Name] (the ""Buyer"") shall, subject to {Length}, enter into this contract.
+
+    \ Schedule A \
+
+        \ Contract Address \
+
+            \\ This contract is tracked using "Smart Contract" technology, at the contract which is addressed at [Contract Address] on a blockchain network with the ID of [Chain ID].
+
+            \\ The contract was instantiated from a "factory" contract located at address: [Contract Factory Address] on the same blockchain network.
+
+            \\ {Seller} has the cryptographic keypair which results in the address of [Party A Address].
+
+            \\ {Buyer} has the cryptographic keypair which results in the address of [Party B Address].
