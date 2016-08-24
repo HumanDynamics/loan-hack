@@ -78,7 +78,7 @@ Total Downpayment: $2,900.00
 
 Unpaid Balance of Cash Price: $28,100.00
 
-###Other Charges
+### Other Charges
 
 Optional Service Contract: $700.00
 
@@ -92,7 +92,7 @@ Property Insurance: You must insure the vehicle securing this Contract.
 Assignment: You agree that the seller may assign this Contract to a third party.
 Additional Terms & Conditions: [need to get the back of a contract for boilerplate, arbitration clause, etc]
 
-##NOTICE TO BUYER:
+## NOTICE TO BUYER:
 
 1. Do not sign this contract if any of the spaces intended for the agreed terms to the extent of then available information are left blank. 
 
@@ -106,7 +106,7 @@ Seller's Signature:
 
 Date of Contract:
 
-##NOTICE OF ASSIGNMENT
+## NOTICE OF ASSIGNMENT
 
 The seller has assigned this contract to Charlie's Credit Union in accordance with the terms and conditions above. This assignment is without recourse. You are to make all future payments to Charlie's Credit Union, 22 Beantown Square, Boston, MA. 
 
