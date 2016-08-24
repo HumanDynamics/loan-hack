@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:uml="http://schema.omg.org/spec/UML/2.0" xmlns:xmi="http://schema.omg.org/spec/XMI/2.0">
+	<xmi:Documentation exporter="StarUML" exporterVersion="2.0"/>
+	<uml:Model xmi:id="AAAAAAFWu8vD6fFo1ZI=" xmi:type="uml:Model" name="RootModel">
+		<packagedElement xmi:id="AAAAAAFFxl38KT9O4MM=" name="Scenarios" visibility="public" xmi:type="uml:Model">
+			<packagedElement xmi:id="AAAAAAFWu2ySZqzoxJQ=" name="Business Deal and Exchange" visibility="public" isAbstract="false" isFinalSpecialization="false" isLeaf="false" xmi:type="uml:UseCase"/>
+			<packagedElement xmi:id="AAAAAAFWu2zpbK0VRt0=" name="Buyer" visibility="public" isAbstract="false" isFinalSpecialization="false" isLeaf="false" xmi:type="uml:Actor">
+				<ownedMember xmi:id="AAAAAAFWu2zpkK0+IjY=" visibility="public" xmi:type="uml:Association" isDerived="false">
+					<ownedEnd xmi:id="AAAAAAFWu2zpkK0/9P0=" visibility="public" isStatic="false" isLeaf="false" isReadOnly="false" isOrdered="false" isUnique="false" xmi:type="uml:Property" aggregation="none" isDerived="false" isID="false" type="AAAAAAFWu2ySZqzoxJQ="/>
+					<ownedEnd xmi:id="AAAAAAFWu2zpkK1ACGY=" visibility="public" isStatic="false" isLeaf="false" isReadOnly="false" isOrdered="false" isUnique="false" xmi:type="uml:Property" aggregation="none" isDerived="false" isID="false" type="AAAAAAFWu2zpbK0VRt0="/>
+					<memberEnd xmi:idref="AAAAAAFWu2zpkK0/9P0="/>
+					<memberEnd xmi:idref="AAAAAAFWu2zpkK1ACGY="/>
+				</ownedMember>
+			</packagedElement>
+			<packagedElement xmi:id="AAAAAAFWu20Dra173ks=" name="Seller" visibility="public" isAbstract="false" isFinalSpecialization="false" isLeaf="false" xmi:type="uml:Actor">
+				<ownedMember xmi:id="AAAAAAFWu20D6a2nqGY=" visibility="public" xmi:type="uml:Association" isDerived="false">
+					<ownedEnd xmi:id="AAAAAAFWu20D6a2oH54=" visibility="public" isStatic="false" isLeaf="false" isReadOnly="false" isOrdered="false" isUnique="false" xmi:type="uml:Property" aggregation="none" isDerived="false" isID="false" type="AAAAAAFWu2ySZqzoxJQ="/>
+					<ownedEnd xmi:id="AAAAAAFWu20D6a2p+9I=" visibility="public" isStatic="false" isLeaf="false" isReadOnly="false" isOrdered="false" isUnique="false" xmi:type="uml:Property" aggregation="none" isDerived="false" isID="false" type="AAAAAAFWu20Dra173ks="/>
+					<memberEnd xmi:idref="AAAAAAFWu20D6a2oH54="/>
+					<memberEnd xmi:idref="AAAAAAFWu20D6a2p+9I="/>
+				</ownedMember>
+			</packagedElement>
+			<packagedElement xmi:id="AAAAAAFWu5Ydi7pLwEM=" name="Legal Contract and Transaction" visibility="public" isAbstract="false" isFinalSpecialization="false" isLeaf="false" xmi:type="uml:UseCase"/>
+			<packagedElement xmi:id="AAAAAAFWu5nEirzq48k=" name="Technical Trigger and Process" visibility="public" isAbstract="false" isFinalSpecialization="false" isLeaf="false" xmi:type="uml:UseCase"/>
+			<packagedElement xmi:id="AAAAAAFWu6PFnsXz7+E=" name="Actor1" visibility="public" isAbstract="false" isFinalSpecialization="false" isLeaf="false" xmi:type="uml:Actor"/>
+			<packagedElement xmi:id="AAAAAAFWu6Yn7sk0U4g=" name="Actor2" visibility="public" isAbstract="false" isFinalSpecialization="false" isLeaf="false" xmi:type="uml:Actor"/>
+			<packagedElement xmi:id="AAAAAAFWu6mD0cuZIS0=" name="Consumer" visibility="public" isAbstract="false" isFinalSpecialization="false" isLeaf="false" xmi:type="uml:Actor">
+				<ownedMember xmi:id="AAAAAAFWu7CwUeCiQ2Y=" visibility="public" xmi:type="uml:Association" isDerived="false">
+					<ownedEnd xmi:id="AAAAAAFWu7CwUeCjDbo=" visibility="public" isStatic="false" isLeaf="false" isReadOnly="false" isOrdered="false" isUnique="false" xmi:type="uml:Property" aggregation="none" isDerived="false" isID="false" type="AAAAAAFWu6mD0cuZIS0="/>
+					<ownedEnd xmi:id="AAAAAAFWu7CwUeCk3EU=" visibility="public" isStatic="false" isLeaf="false" isReadOnly="false" isOrdered="false" isUnique="false" xmi:type="uml:Property" aggregation="none" isDerived="false" isID="false" type="AAAAAAFWu5Ydi7pLwEM="/>
+					<memberEnd xmi:idref="AAAAAAFWu7CwUeCjDbo="/>
+					<memberEnd xmi:idref="AAAAAAFWu7CwUeCk3EU="/>
+				</ownedMember>
+			</packagedElement>
+			<packagedElement xmi:id="AAAAAAFWu7EIW+GNohg=" name="Merchant" visibility="public" isAbstract="false" isFinalSpecialization="false" isLeaf="false" xmi:type="uml:Actor">
+				<ownedMember xmi:id="AAAAAAFWu7K8SOVL8K0=" visibility="public" xmi:type="uml:Association" isDerived="false">
+					<ownedEnd xmi:id="AAAAAAFWu7K8SOVMYVo=" visibility="public" isStatic="false" isLeaf="false" isReadOnly="false" isOrdered="false" isUnique="false" xmi:type="uml:Property" aggregation="none" isDerived="false" isID="false" type="AAAAAAFWu7EIW+GNohg="/>
+					<ownedEnd xmi:id="AAAAAAFWu7K8SOVNHDU=" visibility="public" isStatic="false" isLeaf="false" isReadOnly="false" isOrdered="false" isUnique="false" xmi:type="uml:Property" aggregation="none" isDerived="false" isID="false" type="AAAAAAFWu5Ydi7pLwEM="/>
+					<memberEnd xmi:idref="AAAAAAFWu7K8SOVMYVo="/>
+					<memberEnd xmi:idref="AAAAAAFWu7K8SOVNHDU="/>
+				</ownedMember>
+			</packagedElement>
+			<packagedElement xmi:id="AAAAAAFWu7FhQ+J2Cww=" name="Client" visibility="public" isAbstract="false" isFinalSpecialization="false" isLeaf="false" xmi:type="uml:Actor">
+				<ownedMember xmi:id="AAAAAAFWu7KO7+Q+IrU=" visibility="public" xmi:type="uml:Association" isDerived="false">
+					<ownedEnd xmi:id="AAAAAAFWu7KO7+Q/fKs=" visibility="public" isStatic="false" isLeaf="false" isReadOnly="false" isOrdered="false" isUnique="false" xmi:type="uml:Property" aggregation="none" isDerived="false" isID="false" type="AAAAAAFWu7FhQ+J2Cww="/>
+					<ownedEnd xmi:id="AAAAAAFWu7KO7+RAs3g=" visibility="public" isStatic="false" isLeaf="false" isReadOnly="false" isOrdered="false" isUnique="false" xmi:type="uml:Property" aggregation="none" isDerived="false" isID="false" type="AAAAAAFWu5nEirzq48k="/>
+					<memberEnd xmi:idref="AAAAAAFWu7KO7+Q/fKs="/>
+					<memberEnd xmi:idref="AAAAAAFWu7KO7+RAs3g="/>
+				</ownedMember>
+			</packagedElement>
+			<packagedElement xmi:id="AAAAAAFWu7FmIOLMEZY=" name="Server" visibility="public" isAbstract="false" isFinalSpecialization="false" isLeaf="false" xmi:type="uml:Actor">
+				<ownedMember xmi:id="AAAAAAFWu7Kns+Sux9o=" visibility="public" xmi:type="uml:Association" isDerived="false">
+					<ownedEnd xmi:id="AAAAAAFWu7Kns+SvY94=" visibility="public" isStatic="false" isLeaf="false" isReadOnly="false" isOrdered="false" isUnique="false" xmi:type="uml:Property" aggregation="none" isDerived="false" isID="false" type="AAAAAAFWu7FmIOLMEZY="/>
+					<ownedEnd xmi:id="AAAAAAFWu7Kns+SwoNc=" visibility="public" isStatic="false" isLeaf="false" isReadOnly="false" isOrdered="false" isUnique="false" xmi:type="uml:Property" aggregation="none" isDerived="false" isID="false" type="AAAAAAFWu5nEirzq48k="/>
+					<memberEnd xmi:idref="AAAAAAFWu7Kns+SvY94="/>
+					<memberEnd xmi:idref="AAAAAAFWu7Kns+SwoNc="/>
+				</ownedMember>
+			</packagedElement>
+		</packagedElement>
+		<packagedElement xmi:id="AAAAAAFFxl6EZT9Ufwg=" name="Logical View" visibility="public" xmi:type="uml:Model"/>
+		<packagedElement xmi:id="AAAAAAFFxl6vKz9YEJg=" name="Development View" visibility="public" xmi:type="uml:Model"/>
+		<packagedElement xmi:id="AAAAAAFFxl7i2j9c8Us=" name="Process View" visibility="public" xmi:type="uml:Model"/>
+		<packagedElement xmi:id="AAAAAAFFxl8NcT9gE1g=" name="Physical View" visibility="public" xmi:type="uml:Model"/>
+	</uml:Model>
+</xmi:XMI>
