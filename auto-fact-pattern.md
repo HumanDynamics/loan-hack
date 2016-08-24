@@ -10,7 +10,7 @@ Alice drove her Jalopy to Bob's to buy a Flash. Bob's salesperson took her on a 
 
 Alice chose a 4-cylinder red Flash with a price of $32,000. She negotiated a price of $31,000, plus credit for her trade-in. 
 
-Bob presented Alice with a Retail Installment Contract for the purchase of the vehicle. The deal included the following terms: Purchase price, trade value, interest rate, 72 payment of $459.09 commencing on February 1, 2016.
+Bob presented Alice with a Retail Installment Contract for the purchase of the vehicle. The deal included the following terms: Purchase price, trade value, interest rate, 72 payment of $459.09 commencing on February 1, 2016. [NOTE: Would these terms would be relevant to the business, legal and/or technical stories we want to tell? Which and how? Especially interested in how you are thinking this (or any of the case pattern) would or would not relate to the as yet unwritten code we want to demo.  Can you revise the following linked code stub to show one or more approaches to possible demo code in a way you would feel confident can work quickly in the Eris system once Jason and others get it running - here: https://github.com/HumanDynamics/loan-hack/blob/master/solidity-mockup.txt so we can start to iterate and hone something good?  In particular, can you please show how you would write the code that only results in evidentiary proof of the terms and formation of enforceable contract and independently show how you would write the code that also relflects some more fancy factors or contingent actions in this repo so others can help refine and hone and test once we get the system running?)]
 
 Alice signed the contract electronically. Billy printed and gave her a paper copy of the deal. [[Dazza - do we want the dealer Bob to directly deploy to blockchain, or do we want Charlie to do it once they receive the document?][Not sure - let's play it out both ways and explore the consequences, dependencies and other implications.  In general, we should choose the most comprehensible, frequent and realistic scenarios probably in exactly that order of priority.]]
 
@@ -29,3 +29,11 @@ Charlie sent a letter to Alice demanding payment on the outstanding balance of $
 See MA retail installment auto agreements: https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIV/Chapter255B; https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIV/Chapter255B/Section20B  [NOTE: The state commissioner of banks also charters/regulates state credit unions and was on my call-list for the automated credit union project.  I didn't realize the commissioner of banks also has regulatory power over installment contracts.  This combination of regulatory powers could could assist in identifying a relevant scope of research for potential collaboration with the state partners.]
 
 
+[I'm confused about the purpose and functions of Billy and Charlie.  While Jason is cranking on getting the Eris system up and running, using the draft you left off with end of Tuesday we should:
+1 Identify the B/L/T names of each existing Actor:
+* Human/business names like Alice/Bob or buyer/seller, 
+* Legal names like consumer/merchant or borrower/lender,  and 
+* Technical names tracking to UML of what happened, like software/server/system and wallet/node/blockchain or whatever
+2. Identify the important B/L/T names of each Action, Interaction or Transaction and
+3. Map the roles/relationships to the key rights/responsibilities we seek to spotlight
+Once we have a servicible whiteboard or markdown model of above we should consider how best to simplify and streamline the number and complexity of activities, behaviors and sequences of events happening with/by/topeople, processes and objects]
