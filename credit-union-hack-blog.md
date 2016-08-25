@@ -1,5 +1,37 @@
 Secured loan originations, while complex, create multiple opportunities to integrate blockchain goodness that scales to multiple verticals. 
 
+Topic Items: 
+
+### Record Evidence on Blockchain of Enforceable Contract
+* Like three paragraph explaining what this is and why it's important
+
+### Integrate Key Aspects of Legal Auto Loan Agreements with Technical Capabilities
+For example, lets take the auto lane...
+
+* Promisory note (magic words "borrower promised to pay lender...")
+* Collatoral security interesting (magic words "borrower grants security interest in collatoral...")
+
+### Integrate Key Legal Processes with Technical Capabilities
+
+* Perfecting interests (ownership and security)
+* Continuing compliance (terms of contract and regulatory rules) 
+
+### Support and Reflect Key Business Practices with Legal and Technical Integrations
+
+* Continuing live connection with the underlying asset 
+* Data science and applied analytics for achieving cost and risk reduction and new sources of value
+
+### Computable Law as a Core Business Capability
+
+* Value of embracing and integrating law through architecture and code
+* Extrapolating from Smart Loans to data-driven, digital entity
+
+
+### 
+
+
+Content Stub: 
+
 In general the functional parts of a secured loan contract are: 
 
 The integrated contract containing the complete terms and conditions of the loan. It is important to store this document in a way that preserves it for evidentiary purposes and that complies with laws for transferable records. 
