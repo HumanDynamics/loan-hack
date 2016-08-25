@@ -2,7 +2,7 @@ Secured loan originations, while complex, create multiple opportunities to integ
 
 TLDR:
 
-Blockchain techology can enable integration of business, legal and technical aspects of transactions. To illustrate and prove this thesis, (Dazza and Nina) spent the week hacking a core legal element, the secured transaction.  Secured transactions are those where collateral is pledged as security for a debt, and they make the commercial world turn. The documentary elements of a secured transaction are typically general contract terms and conditions, a promissory note and a collateral security agreement,  These three elements serve different functions and are often, but not always, separate documents within a loan transaction. By iterating a methodical, modular implementation of secured loans, we can use blockchain technology to both replicate and advance legally significant commercial relationships.
+Blockchain techology can enable integration of business, legal and technical aspects of transactions. To illustrate and prove this thesis, (Dazza and Nina) spent the week hacking a core legal element, the secured transaction.  In a secured transaction, collateral is pledged as security for a debt. The documentary elements of a secured transaction are typically general contract terms and conditions, a promissory note and a collateral security agreement,  These three elements serve different functions and are often, but not always, separate documents within a loan transaction. By iterating a methodical, modular implementation of secured loans, we can use blockchain technology to both replicate and advance legally significant commercial relationships.
 
 We explored secured transactions in terms of a U.S consumer auto loan. 
 
