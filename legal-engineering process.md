@@ -4,7 +4,7 @@ Legal Engineers study an existing problem and create rule-based solutions. Yeste
 
 At its simplest, legal engineering is a methodical, multidisciplinary process:
 
-What: Existent business problem;
+What: Existent human or business problem;
 
 Why: Systemic and legal dynamics;
 
