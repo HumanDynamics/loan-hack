@@ -100,6 +100,8 @@ Additional Terms & Conditions: [need to get the back of a contract for boilerpla
 
 You agree to the terms of this Contract and acknowledge that you have received a copy of this contract with all blanks filled in and that you have read and understand it. 
 
+3. Under the law, you have the following rights, among others:(a) to pay off in advance the full amount due and to obtain a partial refund of the finance charge; (b) to redeem the property if repossessed for a default; (c) to require, under certain conditions, a resale of the property if repossessed''.
+
 Buyer's Signature:
 
 Seller's Signature:

@@ -4,11 +4,11 @@ TLDR:
 
 Blockchain techology can enable integration of business, legal and technical aspects of transactions. To illustrate and prove this thesis, (Dazza and Nina) spent the week hacking a core legal element, the secured transaction.  In a secured transaction, collateral is pledged as security for a debt. The documentary elements of a secured transaction are typically general contract terms and conditions, a promissory note and a collateral security agreement,  These three elements serve different functions and are often, but not always, separate documents within a loan transaction. By iterating a methodical, modular implementation of secured loans, we can use blockchain technology to both replicate and advance legally significant commercial relationships.
 
-We explored secured transactions in terms of a U.S consumer auto loan. 
+We explored secured transactions in terms of a U.S consumer auto loan governed by the (Massachusetts General Laws Chapter 255B, Retail Instalment Sales of Motor Vehicles.)<https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIV/Chapter255B> 
 
 
 
-Blockchain technology can record reliable evidence of a contract.
+
 
 
 
@@ -16,6 +16,14 @@ Topic Items:
 
 ### Record Evidence on Blockchain of Enforceable Contract
 * Like three paragraph explaining what this is and why it's important
+
+Blockchain technology can create and preserve reliable *evidence*, critical to providing bedrock element of contract law: enforceability.
+
+Legal enforcement of a contract means obtaining the assistance of a court in order to force the parties to comply with the promises they made. This certainty of judicial enforcement provides the predictability of outcome necessary to make a loan, i.e. to engage in the risk-bearing behavior of spending money to day in exchange for increased returns tomorrow. The foundation of enforceability is evidence, that is, the rubric under which we decide that a fact is reliable enough to be considered by a court. 
+
+Blockchain storage of enforceable contracts provides the chain of custody and authentication required in order to admit a record into evidence. This step alone meets several manifest business needs. 
+
+
 
 ### Integrate Key Aspects of Legal Auto Loan Agreements with Technical Capabilities
 For example, lets take the auto lane...
