@@ -21,12 +21,23 @@ Blockchain technology can create and preserve reliable *evidence*, critical to p
 
 Legal enforcement of a contract means obtaining the assistance of a court in order to force the parties to comply with the promises they made. This certainty of judicial enforcement provides the predictability of outcome necessary to make a loan, i.e. to engage in the risk-bearing behavior of spending money to day in exchange for increased returns tomorrow. The foundation of enforceability is evidence, that is, the rubric under which we decide that a fact is reliable enough to be considered by a court. 
 
-Blockchain storage of enforceable contracts provides the chain of custody and authentication required in order to admit a record into evidence. This step alone meets several manifest business needs. 
+Blockchain smart contracts meet this standard via cryptographically secure content-addressable storage. In a process called hashing, data is passed through complex equations to produce a unique identifier. The hashing process is one-way, meaning no two sets of data produce the same outcome, and it is infeasible to decipher the hash to reveal the contents without a key. The distributed ledger provides the requisite immutability and audit trail.This combination produces the unique record of provenance, authority and control required by existing law, exceeding the capabilities of prior technology.
 
+Blockchain storage of enforceable contracts provides the chain of custody and authentication required in order to admit a record into evidence. This step alone meets several manifest business needs. The evidence-recording aspect of contracting is today best accomplished by *dual integration*, the combination of an enforceable, integrated electronic contract with blockchain storage. 
+
+Blockchain storage gives a more accurate view on admissibility of a contract, a critical step for enforceabilty. Rather than simply rely on a human sworn statement to provide authentication, blockchain storage provides a timestamp, attribution and a record of all events related to the document. Dual integration allows us to save a contract in a way that meets parties' existing commercial needs while building solutions that take advantage of more complex smart contract functionality. 
+
+Smart contracts protect integrity of account data for broader use in commerce. For example, transparent, traceable, transferrable assets support the ability to hypothecate and securitize existing contracts (assets) and to ensure cost-effective handling of nonperforming loans.
 
 
 ### Integrate Key Aspects of Legal Auto Loan Agreements with Technical Capabilities
-For example, lets take the auto lane...
+
+To illustrate blockchain smart contract potential, we explored consumer automobile loan originations. An automobile loan is a secured loan, that is, a vehicle (collateral) is pledged as security for the borrower's promise to make payments. If the borrower fails to make payments, the creditor has the right to repossess and sell the vehicle to satisfy the loan.
+
+An auto loan contains several elements that are amenable to smart contract logic: 
+ - terms and conditions (stored on blockchain as evidence)
+ - promissory note (value transfer)
+ - security agreement (rights to collateral)
 
 * Promisory note (magic words "borrower promised to pay lender...")
 * Collatoral security interesting (magic words "borrower grants security interest in collatoral...")
