@@ -14,10 +14,12 @@ We explored secured transactions in terms of a U.S consumer auto loan governed b
 
 Topic Items: 
 
-### Record Evidence on Blockchain of Enforceable Contract
-* Like three paragraph explaining what this is and why it's important
+To illustrate blockchain smart contract potential, we explored consumer automobile loan originations. An automobile loan is a secured loan, that is, a vehicle (collateral) is pledged as security for the borrower's promise to make payments. In a secured transaction, if the borrower fails to make payments, the creditor has the right to repossess and sell the collateral to satisfy the loan. In the U.S., secured transactions are generally covered by Article 9 of the Uniform Commercial Code ("U.C.C."").
 
-Blockchain technology can create and preserve reliable *evidence*, critical to providing bedrock element of contract law: enforceability.
+
+### Record Evidence on Blockchain of Enforceable Contract
+
+Step one of a smart contract loan implementation involves storing a fully-integrated electronic contract in a blockchain vault. This seemingly small step is critical in preserving the contract for purposes of enforcement and use as an asset. Blockchain technology can create and preserve reliable *evidence*, critical to providing bedrock element of contract law: enforceability.
 
 Legal enforcement of a contract means obtaining the assistance of a court in order to force the parties to comply with the promises they made. This certainty of judicial enforcement provides the predictability of outcome necessary to make a loan, i.e. to engage in the risk-bearing behavior of spending money to day in exchange for increased returns tomorrow. The foundation of enforceability is evidence, that is, the rubric under which we decide that a fact is reliable enough to be considered by a court. 
 
@@ -32,20 +34,17 @@ Smart contracts protect integrity of account data for broader use in commerce. F
 
 ### Integrate Key Aspects of Legal Auto Loan Agreements with Technical Capabilities
 
-To illustrate blockchain smart contract potential, we explored consumer automobile loan originations. An automobile loan is a secured loan, that is, a vehicle (collateral) is pledged as security for the borrower's promise to make payments. In a secured transaction, if the borrower fails to make payments, the creditor has the right to repossess and sell the collateral to satisfy the loan. In the U.S., secured transactions are generally covered by Article 9 of the Uniform Commercial Code ("U.C.C."").
-
-An auto loan contains several elements that are amenable to smart contract logic: 
- - signature (authorization and validation)
- - promissory note (value transfer)
- - security agreement (rights to collateral)
- - terms and conditions (stored on blockchain as evidence)
+Beyond providing a more sound record upon which courts and markets can rely, smart contracts open the door to self-enforcement of certain contractual provisions: those that can be managed solely by documentary conditions and non-discretionary decisions. 
 
 
 
 
-* Promissory note. A promissory note is an enforceable promise to pay money in the future, often written as "borrower promises to pay lender" an ascertainable sum. Promissory notes transfer rights and obligations. Standing alone, such promises to pay are fungible and  transferable. When incorporated into an installment contract like an auto loan, a promise to pay is the primary value item: it represents a future income stream and gives a contract independent value as an asset. Promises to pay are often sold and/or transformed into investment vehicles like derivatives. Blockchain technology is a perfect fit to support the use of promissory notes in commerce. Smart contracts have the ability to record, control and transfer enforceable rights and obligations, including representing dematerialized promissory notes recorded solely in electronic form. 
 
- Security Agreement. The other functional element of a secured transaction is a collateral security agreement, usually designated by the "magic words" *borrower grants creditor a security interest in collateral*. Collateral security agreements are well-suited to smart contract functionality and open the door to new kinds of financial models and processes using blockchain technology, as we discuss below. 
+* Promissory note. A promissory note is an enforceable promise to pay money in the future, often written as "borrower promises to pay lender" a sum. Promissory notes transfer rights and obligations. Standing alone, such promises to pay are fungible and  transferable. When incorporated into an installment contract like an auto loan, a promise to pay is the primary value item: it represents a future income stream and gives a contract independent value as an asset. Promises to pay are often sold and/or transformed into investment vehicles like derivatives. Blockchain technology is a perfect fit to support the use of promissory notes in commerce. Smart contracts have the ability to record, control and transfer enforceable rights and obligations, including representing dematerialized promissory notes recorded solely in electronic form. 
+
+Smart contract promissory notes have the ability to automatically direct an income stream. For example, a pool of smart contract promissory notes may be securitized and the payments automatically, transparently transferred for securities and derivatives.
+
+Security Agreement. The other functional element of a secured transaction is a collateral security agreement, usually designated by the "magic words" *borrower grants creditor a security interest in collateral*. Collateral security agreements are well-suited to smart contract functionality and open the door to new kinds of financial models and processes using blockchain technology, as we discuss below. 
 
  Collateral security agreements also underscore the legal due diligence aspect of building commercial relationships. Using blockchains in many kinds of secured transactions is foreseeable. The method of creating and maintaining an enforceable securiy interest is highly variable for different kinds of collateral/assets and between jurisdictions. As Casey Kuhlman says: "Security agreements are 'black diamond' legal tech - get legal advice."" 
 
