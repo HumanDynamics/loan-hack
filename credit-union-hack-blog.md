@@ -43,13 +43,19 @@ An auto loan contains several elements that are amenable to smart contract logic
 
 
 
-* A promissory note is an enforceable promise to pay money in the future, often written as "borrower promises to pay lender" an ascertainable sum. Promissory notes transfer rights and obligations. Standing alone, such promises to pay are fungible and  transferable. When incorporated into an installment contract like an auto loan, a promise to pay is the primary value item: it represents a future income stream and gives a contract independent value as an asset. Promises to pay are often sold and/or transformed into investment vehicles like derivatives. Blockchain technology is a perfect fit to support the use of promissory notes in commerce. Smart contracts have the ability to record, control and transfer enforceable rights and obligations, including representing dematerialized promissory notes recorded solely in electronic form. 
+* Promissory note. A promissory note is an enforceable promise to pay money in the future, often written as "borrower promises to pay lender" an ascertainable sum. Promissory notes transfer rights and obligations. Standing alone, such promises to pay are fungible and  transferable. When incorporated into an installment contract like an auto loan, a promise to pay is the primary value item: it represents a future income stream and gives a contract independent value as an asset. Promises to pay are often sold and/or transformed into investment vehicles like derivatives. Blockchain technology is a perfect fit to support the use of promissory notes in commerce. Smart contracts have the ability to record, control and transfer enforceable rights and obligations, including representing dematerialized promissory notes recorded solely in electronic form. 
 
- The other functional element of a secured transaction is a collateral security agreement, usually designated by the "magic words" *borrower grants creditor a security interest in collateral*. Collateral security agreements are also well-suited to smart contract functionality and open the door to new kinds of financial models using blockchain technology. However, collateral security agreements also underscore the legal tech aspect of blockchains: Using blockchains in many kinds of secured transactions is foreseeable, however, the form and method of creating and maintaining an enforceable securiy interest is highly variable for different kinds of collateral/assets as well as between jurisdictions. 
+ Security Agreement. The other functional element of a secured transaction is a collateral security agreement, usually designated by the "magic words" *borrower grants creditor a security interest in collateral*. Collateral security agreements are well-suited to smart contract functionality and open the door to new kinds of financial models and processes using blockchain technology, as we discuss below. 
+
+ Collateral security agreements also underscore the legal due diligence aspect of building commercial relationships. Using blockchains in many kinds of secured transactions is foreseeable. The method of creating and maintaining an enforceable securiy interest is highly variable for different kinds of collateral/assets and between jurisdictions. As Casey Kuhlman says: "Security agreements are 'black diamond' legal tech - get legal advice."" 
 
 ### Integrate Key Legal Processes with Technical Capabilities
 
 * Perfecting interests (ownership and security)
+A critical element in secured transactions is perfection of the interest, that is, putting world on notice of a creditor's rights in the collateral. Perfection rules vary based on, among other things, collateral type. For an automobile loan, perfection of a security interest usually means making a filing with the state automobile registry, i.e. the Department of Motor Vehicles.
+
+Security interests might be noted in new ways in a blockchain-enabled system. For example, a vehicle's title might be a smart contract that would register liens and changes of ownership. Similar rules may be applied to other assets symbolized by tokens, enabling new ways of establishing control of intangible assets for purpose of securitization rules. 
+
 * Continuing compliance (terms of contract and regulatory rules) 
 
 ### Support and Reflect Key Business Practices with Legal and Technical Integrations
