@@ -39,7 +39,9 @@ An auto loan contains several elements that are amenable to smart contract logic
  - promissory note (value transfer)
  - security agreement (rights to collateral)
 
-* Promisory note (magic words "borrower promised to pay lender...")
+* A promissory note is an enforceable promise to pay money in the future, often written as "borrower promises to pay lender" an ascertainable sum. Standing alone, promissory notes are fungible and  transferable. When incorporated into an installment contract like an auto loan, a promise to pay is the primary value item: it represents a future income stream and gives a contract independent value as an asset. Promises to pay are often sold and/or transformed into investment vehicles like derivatives. Blockchain technology is a perfect fit to support the use of promissory notes in commerce. Smart contracts have the ability to record, control and transfer enforceable rights and obligations, including representing dematerialized promissory notes recorded solely in electronic form. 
+
+ (magic words "borrower promises to pay lender...") 
 * Collatoral security interesting (magic words "borrower grants security interest in collatoral...")
 
 ### Integrate Key Legal Processes with Technical Capabilities
