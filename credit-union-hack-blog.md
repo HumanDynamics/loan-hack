@@ -1,6 +1,5 @@
 
 
-TLDR:
 
 Blockchain techology can enable integration of business, legal and technical aspects of transactions. To illustrate and prove this thesis, (Dazza and Nina) spent the week hacking a core legal element, the secured transaction.  In a secured transaction, collateral is pledged as security for a debt. The documentary elements of a secured transaction are typically general contract terms and conditions, a promissory note and a collateral security agreement,  These three elements serve different functions and are often, but not always, separate documents within a loan transaction. By iterating a methodical, modular implementation of secured loans, we can use blockchain technology to both replicate and advance legally significant commercial relationships.
 
@@ -8,7 +7,7 @@ Blockchain techology can enable integration of business, legal and technical asp
 
 Blockchain storage provides the building blocks for decentralized internet commerce. Smart contracts create the rails on which things created out of the blocks will move across networks. Blockchain-based smart contract ecosystems provide an interoperable, global solution for turning data into evidence upon which relationships may be built. In the legal context, this creates a secure way to originate electronic assets that meet statutory requirements of uniqueness and control of a record and further link the asset to smart contract securities and derivative products in a rock-solid audit trail. 
 
-Topic Items: 
+
 
 To illustrate blockchain smart contract potential, we explored consumer automobile loan originations. An automobile loan is a secured loan. A vehicle (collateral) is pledged as security for the borrower's promise to make payments. In a secured transaction, if the borrower fails to make payments, the creditor has the right to repossess and sell the collateral to satisfy the loan. The elements of a secured transaction are: (1) a promise to pay; (2) a security interest in identifiable collateral; and (3) perfection of the interest.  Perfection puts the world on notice of an interest. It is possible to securitize almost any kind of asset in which a security interested can be perfected, including electronic contracts. Blockchain technology is an excellent fit for a transparent method for establishing ownership and control of electronic contracts for purposes of securitization of collateral. 
 
