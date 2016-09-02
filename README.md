@@ -3,4 +3,6 @@ For hacking on automated financial institution loan smart contracts with nina, d
 
 For web:  http://humandynamics.github.io/loan-hack
 
-We use: https://opencollab.slack.com/messages/eris-loan-hack/details/
+For wiki: https://github.com/HumanDynamics/loan-hack/wiki/Use-Case-Business,-Legal-and-Technical-Viewpoints
+
+We chat: https://opencollab.slack.com/messages/eris-loan-hack/details/
